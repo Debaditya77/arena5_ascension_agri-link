@@ -69,10 +69,6 @@ AgriLink follows a modern, mobile-first design system:
 	•	🟩 Neon green accents for agricultural identity
 	•	📦 Bento grid layout for structured information flow
 
-The interface is designed to be:
-
-Minimal • Accessible • Data-driven • Intuitive
-
 ⸻
 
 🧱 Tech Stack
@@ -128,3 +124,4 @@ AgriLink aims to:
 🧑‍🌾 Why AgriLink Matters
 
 AgriLink is not just a marketplace — it is a decision-support system that empowers farmers to act quickly, sell smartly, and waste less.
+
